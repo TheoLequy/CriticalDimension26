@@ -1,5 +1,5 @@
 # CriticalDimension26
-Semester Project in String Theory: Complete derivation of the commutator of Lorentz generators.
+Semester Project in String Theory: Complete derivation of the commutator of Lorentz generators for Bosonic String Theory in light cone coordinates.
 
 ## Abstract
 String theory has the potential to unify general relativity with quantum mechanics. One of its
